@@ -40,7 +40,7 @@
 
 <img width="530" height="107" alt="image" src="https://github.com/user-attachments/assets/5b197b29-a801-44d2-9495-0bc0328705b7" />
 
-5. Ajouter un fichier README.md après coup
+4. Ajouter un fichier README.md après coup
 
 Si vous n’avez pas ajouté de README lors de la création du projet, vous pouvez le faire manuellement :
 
@@ -65,6 +65,44 @@ $git commit -m "Ajout du fichier README.md"
 $git push origin main
 
 (ou master selon la branche par défaut de votre dépôt)
+
+5. Définir un dépôt distant (si oublié)
+
+++Si vous avez créé un projet local sans lier de dépôt distant, vous pouvez le faire après coup avec :
+
+$git remote add origin https://github.com/mohamedkhalilboujdey/TP1_MLOps
+
+++Vérifiez que le lien est bien configuré :
+
+$git remote -v
+
+++Vous devriez voir :
+
+$origin  https://github.com/mohamedkhalilboujdey/TP1_MLOps(fetch)
+$origin  https://github.com/mohamedkhalilboujdey/TP1_MLOps(push)
+
+++Ensuite, poussez votre projet vers GitHub :
+
+$git push -u origin main
+
+##Partie 3 : Concepts de base de Git
+1. Travailler avec les fichiers
+   a. Créer un fichier Python
+
+<img width="488" height="47" alt="image" src="https://github.com/user-attachments/assets/5eeee294-bc6e-44d6-af40-30c0c40034bb" />
+
+   b. Ajouter du contenu dans le fichier
+
+<img width="567" height="56" alt="image" src="https://github.com/user-attachments/assets/121de941-ead3-47a2-b1f4-d97dd867b389" />
+
+   c. Ajouter le fichier à l’index (staging area)
+
+<img width="566" height="68" alt="image" src="https://github.com/user-attachments/assets/cbf87427-3d2d-4d90-ad92-0b655c227912" />
+
+
+   
+   
+
 
 
 
