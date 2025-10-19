@@ -133,6 +133,28 @@ $git push -u origin main
 
 <img width="413" height="58" alt="image" src="https://github.com/user-attachments/assets/5eb96ba5-cf35-4fa6-a6e0-dd2e0d624192" />
 
+2. Modifier, ajouter, committer et pousser les changements
+
+<img width="557" height="324" alt="image" src="https://github.com/user-attachments/assets/580396aa-01e3-4a39-b058-19bf5fe00023" />
+
+3. Gestion des conflits
+
+<img width="553" height="587" alt="image" src="https://github.com/user-attachments/assets/fa31fa15-0dac-42bf-8121-469c194bc213" />
+
+4. Suivre un dépôt distant et récupérer toutes les branches
+
+<img width="484" height="158" alt="image" src="https://github.com/user-attachments/assets/068924ec-bf32-49df-aee6-ee6b74f184c6" />
+
+5. Supprimer une branche locale après fusion
+
+<img width="394" height="59" alt="image" src="https://github.com/user-attachments/assets/42f4cfa2-4503-4c6b-a9ab-21cef61fe01f" />
+
+
+
+
+
+
+
 
 
 
