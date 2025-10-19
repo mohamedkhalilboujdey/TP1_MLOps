@@ -150,7 +150,25 @@ $git push -u origin main
 <img width="394" height="59" alt="image" src="https://github.com/user-attachments/assets/42f4cfa2-4503-4c6b-a9ab-21cef61fe01f" />
 
 ##Partie 5 : Rebase d'une branche sur ‘master’:
-1. Passer sur la branche master et la mettre à jour
+
+<img width="550" height="748" alt="image" src="https://github.com/user-attachments/assets/a906faa2-6ab8-445a-82dd-65543636404a" />
+
+8. Interrompre un rebase en cours
+
+++Si vous avez commis une erreur pendant le rebase (ou souhaitez tout annuler) :
+
+$git rebase --abort
+
+👉 Cela arrête le rebase et remet le dépôt dans l’état d’avant la commande git rebase.
+
+9. Lister les commits qui vont être rebasés avant de lancer un rebase
+
+++Avant d’exécuter le rebase, vous pouvez voir quels commits seront concernés :
+
+$git log main..experiment-eda
+
+👉 Cela affiche tous les commits qui existent dans experiment-eda mais pas dans master, c’est-à-dire ceux qui seront rejoués pendant le rebase.
+
 
 
 
