@@ -79,6 +79,7 @@ $git remote -v
 ++Vous devriez voir :
 
 $origin  https://github.com/mohamedkhalilboujdey/TP1_MLOps(fetch)
+
 $origin  https://github.com/mohamedkhalilboujdey/TP1_MLOps(push)
 
 ++Ensuite, poussez votre projet vers GitHub :
@@ -99,6 +100,23 @@ $git push -u origin main
 
 <img width="566" height="68" alt="image" src="https://github.com/user-attachments/assets/cbf87427-3d2d-4d90-ad92-0b655c227912" />
 
+   d. Valider votre premier commit
+
+<img width="549" height="87" alt="image" src="https://github.com/user-attachments/assets/cad2af27-f485-4a30-a54e-077bf82ec471" />
+
+2. Historique des commits
+   a. Afficher l’historique
+
+<img width="572" height="290" alt="image" src="https://github.com/user-attachments/assets/ce816cfa-f11c-4927-b253-7739f0b23dbb" />
+
+   b. Afficher les différences entre deux commits
+
+<img width="1200" height="692" alt="image" src="https://github.com/user-attachments/assets/96ebf0b8-0d64-476c-bca2-dd9a322ea2f1" />
+
+
+   
+   
+   
 
    
    
