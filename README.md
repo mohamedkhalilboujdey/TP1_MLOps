@@ -19,7 +19,7 @@
 
 <img width="450" height="70" alt="image" src="https://github.com/user-attachments/assets/76b74f8c-20d1-4210-ad90-1da135a162f6" />
 
-6. Modifier ton adresse e-mail Git
+5. Modifier ton adresse e-mail Git
 
 <img width="540" height="60" alt="image" src="https://github.com/user-attachments/assets/626b6a4c-37cc-49bf-af16-0fcdd02e4c83" />
 
@@ -28,7 +28,9 @@
 <img width="365" height="52" alt="image" src="https://github.com/user-attachments/assets/8f094976-f7c2-47f3-b7ea-ef8a81ff708a" />
 
 ##Partie 2: Création d'un nouveau projet
+1. Connexion à votre compte GitHub / GitLab et Création d’un nouveau dépôt:
 
+   
 
 
 
