@@ -88,6 +88,7 @@ $git push -u origin main
 
 ##Partie 3 : Concepts de base de Git
 1. Travailler avec les fichiers
+
    a. Créer un fichier Python
 
 <img width="488" height="47" alt="image" src="https://github.com/user-attachments/assets/5eeee294-bc6e-44d6-af40-30c0c40034bb" />
@@ -112,6 +113,29 @@ $git push -u origin main
    b. Afficher les différences entre deux commits
 
 <img width="1200" height="692" alt="image" src="https://github.com/user-attachments/assets/96ebf0b8-0d64-476c-bca2-dd9a322ea2f1" />
+
+3. Annuler les modifications locales d’un fichier avant l’indexation
+
+   $git checkout -- eda.py
+
+4. Visualiser les fichiers dans le staging area
+
+<img width="447" height="118" alt="image" src="https://github.com/user-attachments/assets/a5037118-a296-4b14-9b12-6c257fcaf60b" />
+
+##Partie 4 : Collaborer sur Git
+1. Créer une nouvelle branche:
+
+++Créer une nouvelle branche :
+
+<img width="491" height="46" alt="image" src="https://github.com/user-attachments/assets/ac5357dc-6a90-4d61-9200-ac008a060fec" />
+
+++Basculer sur cette branche :
+
+<img width="413" height="58" alt="image" src="https://github.com/user-attachments/assets/5eb96ba5-cf35-4fa6-a6e0-dd2e0d624192" />
+
+
+
+
 
 
    
